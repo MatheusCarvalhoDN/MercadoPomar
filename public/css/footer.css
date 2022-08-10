@@ -1,0 +1,22 @@
+footer{
+    text-align: left;
+    background-color: #69FF3A;
+    color: black;
+    margin-top: 0%;
+    padding-top: 0%;
+    font-family: sans-serif;
+
+}
+.firstFooter{
+    display: inline-block;
+    padding-left: 200px;
+    
+}
+.secondFooter{
+    display: inline-block;
+    padding-left: 200px;
+}
+.thirdFooter{
+    display: inline-block;
+    padding-left: 200px;
+}
